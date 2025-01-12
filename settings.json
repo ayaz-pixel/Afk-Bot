@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "arabiguy.aternos.me:12223",
+    "port": 12223,
     "version": "1.19.3"
   },
 
